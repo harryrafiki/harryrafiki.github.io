@@ -1,0 +1,23 @@
+.bg-image {
+	background-image: url("../img/england_rugby.jpg");
+	background-size: cover;
+}
+
+.white-bg {
+	background-color: white;
+}
+
+.heading {
+	font-size: 70px;
+	font-family: rockwell;
+	color: red;
+	position: relative;
+	top: 140px;
+}
+
+button {
+	position: relative;
+	top:300px;
+	font-size: 30px;
+
+}
