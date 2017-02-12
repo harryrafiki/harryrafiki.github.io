@@ -1,5 +1,10 @@
 .bg-image {
-	background-image: url("../img/england_rugby.jpg");
+	background-image: url("../img/England_rugby.jpg");
+	background-size: cover;
+}
+
+.login-image {
+	background-image: url("../img/england_trophy.jpg");
 	background-size: cover;
 }
 
